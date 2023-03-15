@@ -1,0 +1,13 @@
+Entendimento do Projeto:
+
+	- Missão: Sistema de Gestão de Caixa Integrado
+	- A empresa hoje oferece serviços de terceirização nas areas contábil, seguros, soluções financeiras e administração financeira (contas a pagar, receber, tesouraria)
+	- Hoje, algumas rotinas são feitas manualmente por funcionários da empresa e eles desejam automatizar essas rotinas, substituindo o trabalho braçal. (por exemplo, 1 atendente atendendo a 10 clientes ao mesmo tempo)
+	- O sistema deve permitir a classificação automática contábil das contas, por exemplo custos, despesas, impostos etc.
+	- A partir das emissões de notas fiscais, ser possível de separar na nota o que são impostos
+	- Com base nas emissões (receitas e custos), a construção de uma Demonstração de Resultado (DRE)
+	- O sistema tem que ser capaz de a partir das entradas e saídas na conta corrente, estruturar um fluxo de caixa e apresentar o saldo disponível.
+	- A partir do saldo disponível, propor soluções financeiras para cobertura de caixa
+	- A plataforma deverá oferecer uma tela para visualizar os principais indicadores de gestão de caixa.
+	- Módulo de produtos bancários
+O módulo deverá ser atrelado ao faturamento da empresa, integracao com notas fiscais
